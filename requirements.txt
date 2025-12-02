@@ -1,0 +1,10 @@
+streamlit
+torch
+transformers
+datasets
+accelerate
+evaluate
+pandas
+numpy
+scikit-learn
+huggingface-hub
